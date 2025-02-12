@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim
+vMUX
+Z0 !s110 1736877014
+!i10b 1
+!s100 bLoJHXU]V;9T^ehzzD]HA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9;LWoA08`PJ;I4]oT@50V1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/50-Days-of-RTL/Day1
+Z4 w1736876999
+Z5 8D:\50-Days-of-RTL\Day1\8_to_1_MUX.v
+Z6 FD:\50-Days-of-RTL\Day1\8_to_1_MUX.v
+!i122 3
+L0 1 15
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1736877014.000000
+!s107 D:\50-Days-of-RTL\Day1\8_to_1_MUX.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\50-Days-of-RTL\Day1\8_to_1_MUX.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@m@u@x
+vmux_tb
+R0
+!i10b 1
+!s100 k>DP[7kILU27aLK3AJ?L`0
+R1
+IQ=dAcI2caYO<e4JVe=5_U2
+R2
+R3
+R4
+R5
+R6
+!i122 3
+L0 18 33
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:\50-Days-of-RTL\Day1\8_to_1_MUX.v|
+R9
+!i113 1
+R10
+R11

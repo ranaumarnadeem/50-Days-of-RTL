@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim
+vDEMUX
+Z0 !s110 1736961556
+!i10b 1
+!s100 ]d29dlK>H8J2n>d:8ETVk2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1>4CkTK2cUFYRk5ciMJml0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/50-Days-of-RTL/Day2
+Z4 w1736961550
+Z5 8D:\50-Days-of-RTL\Day2\DeMUX_1to8.v
+Z6 FD:\50-Days-of-RTL\Day2\DeMUX_1to8.v
+!i122 0
+L0 1 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1736961556.000000
+!s107 D:\50-Days-of-RTL\Day2\DeMUX_1to8.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\50-Days-of-RTL\Day2\DeMUX_1to8.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@d@e@m@u@x
+vdemux_tb
+R0
+!i10b 1
+!s100 0_3>K4AJlMQ:<Q6GcGR`91
+R1
+I[9C`cIX^:J0a[c<YV?8a10
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 18 33
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:\50-Days-of-RTL\Day2\DeMUX_1to8.v|
+R9
+!i113 1
+R10
+R11

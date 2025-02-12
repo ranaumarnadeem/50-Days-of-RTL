@@ -1,0 +1,9 @@
+D:/50-Days-of-RTL/Day3/decoder_3to8.v {1 {vlog -work work -stats=none {D:\50-Days-of-RTL\Day3\decoder_3to8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}}

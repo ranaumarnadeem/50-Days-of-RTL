@@ -1,0 +1,9 @@
+D:/50-Days-of-RTL/Day1/8_to_1_MUX.v {1 {vlog -work work -stats=none {D:\50-Days-of-RTL\Day1\8_to_1_MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+-- Compiling module mux_tb
+
+Top level modules:
+	mux_tb
+
+} {} {}}

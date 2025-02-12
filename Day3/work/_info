@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim
+vdecoder
+Z0 !s110 1736962816
+!i10b 1
+!s100 4N?JeYHjnOa2mEii]OI@[1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6ah@OD`Lzg_M;BF4Cn5a41
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/50-Days-of-RTL/Day3
+Z4 w1736962811
+Z5 8D:\50-Days-of-RTL\Day3\decoder_3to8.v
+Z6 FD:\50-Days-of-RTL\Day3\decoder_3to8.v
+!i122 1
+L0 1 13
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1736962816.000000
+!s107 D:\50-Days-of-RTL\Day3\decoder_3to8.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\50-Days-of-RTL\Day3\decoder_3to8.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vdecoder_tb
+R0
+!i10b 1
+!s100 `5NS;TCZa^iR6^jkbd3@a2
+R1
+Ib>=cgIX7hOo6IZ^H[f]=22
+R2
+R3
+R4
+R5
+R6
+!i122 1
+L0 15 16
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:\50-Days-of-RTL\Day3\decoder_3to8.v|
+R9
+!i113 1
+R10
+R11

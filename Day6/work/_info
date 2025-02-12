@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/50-Days-of-RTL/Day7
+vcarry_lookahead_adder
+Z0 !s110 1739357076
+!i10b 1
+!s100 iKD84?_eKL:fXIaoOH_RB2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbEzf0k64JI1jfK0;gDUL33
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/50-Days-of-RTL/Day6
+Z4 w1739356951
+Z5 8D:/50-Days-of-RTL/Day6/carry_lookahead_adder_4bit.v
+Z6 FD:/50-Days-of-RTL/Day6/carry_lookahead_adder_4bit.v
+!i122 2
+L0 1 12
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1739357076.000000
+!s107 D:/50-Days-of-RTL/Day6/carry_lookahead_adder_4bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/50-Days-of-RTL/Day6/carry_lookahead_adder_4bit.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtestbench_carry_lookahead_adder
+R0
+!i10b 1
+!s100 oSQ6RY^1h^PPnEIfFPjB@2
+R1
+ITgf^<Ch?>aU>`;V50^K`82
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 14 16
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/50-Days-of-RTL/Day6/carry_lookahead_adder_4bit.v|
+R9
+!i113 1
+R10
+R11
