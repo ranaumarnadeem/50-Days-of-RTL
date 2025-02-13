@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim
+vadd_sub_4bit
+Z0 !s110 1739423510
+!i10b 1
+!s100 UjE`1PJ?dT_@M]BBRK_K31
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVXIf=XINkb87[JKL8h5H@0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/50-Days-of-RTL/Day7
+Z4 w1739423418
+Z5 8D:/50-Days-of-RTL/Day7/add_sub_4bit.v
+Z6 FD:/50-Days-of-RTL/Day7/add_sub_4bit.v
+!i122 0
+L0 1 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1739423510.000000
+!s107 D:/50-Days-of-RTL/Day7/add_sub_4bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/50-Days-of-RTL/Day7/add_sub_4bit.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfulladder
+R0
+!i10b 1
+!s100 j]VaimzK6e0IH`1aV14b?1
+R1
+ImHU=>T=OGjhCz`6Af[9LG0
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 19 5
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/50-Days-of-RTL/Day7/add_sub_4bit.v|
+R9
+!i113 1
+R10
+R11
+vtestbench_add_sub_4bit
+R0
+!i10b 1
+!s100 =iK;<L6dzk8RJkbHa3z8n3
+R1
+Iil[zH6aW3l>9FeCm0e`102
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 25 23
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
