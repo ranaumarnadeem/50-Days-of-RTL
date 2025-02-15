@@ -1,0 +1,10 @@
+D:/50-Days-of-RTL/Day7/add_sub_4bit.v {1 {vlog -work work -stats=none D:/50-Days-of-RTL/Day7/add_sub_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_sub_4bit
+-- Compiling module fulladder
+-- Compiling module testbench_add_sub_4bit
+
+Top level modules:
+	testbench_add_sub_4bit
+
+} {} {}}
